@@ -101,6 +101,39 @@
   ```
 
   ![image](https://github.com/user-attachments/assets/1add4981-2bfa-4adb-840e-1bce6d9103d8)
+
+  ```
+  pip install djangorestframework-simplejwt
+  ```
+  ```
+  pip install django-cors-headers
+  ```
+  ![image](https://github.com/user-attachments/assets/7b3d2640-d31c-4df1-89b9-a5352ee617d9)
+
+
+</details> 
+
 </details>
+
+
+# Create the Django Project
+
+<details> <summary>
+
+  ```
+ django-admin startproject connectly_project
+
+  ```
+
+</summary>
+
+![image](https://github.com/user-attachments/assets/9f34e2d7-9e4a-4ab1-a722-621072c46b7d)
+<br>
+![image](https://github.com/user-attachments/assets/15cbc84a-22c3-46d1-b7b8-955c5172bb0e)
+<br>
+
+![image](https://github.com/user-attachments/assets/1ff1e6f6-db06-4817-8586-b37d5c7b6ad6)
+
+
 
 </details>
