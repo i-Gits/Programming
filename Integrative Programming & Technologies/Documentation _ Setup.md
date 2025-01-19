@@ -134,6 +134,74 @@
 
 ![image](https://github.com/user-attachments/assets/1ff1e6f6-db06-4817-8586-b37d5c7b6ad6)
 
+<br>
+Move to newly created project folder
+
+
+```
+cd connectly_project
+
+```
+  
+![image](https://github.com/user-attachments/assets/b49b9698-fcd2-413d-98ba-5ab0607c54bd)
+
+</details>
+
+# Configure Django REST Framework (DRF)
+
+<details>
+
+  <summary> 
+ 
+    ```
+    connectly_project/settings.py
+    ```
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/e95b85ef-1f5e-4658-ac63-ded88e0f9b14)
+<br>
+  ![image](https://github.com/user-attachments/assets/3c25a16f-5fe1-479e-8379-71356272bdd8)
+  
+</details>
+
+<br>
+
+
+# Run Initial Migrations
+
+<details>
+
+  <summary> 
+  Using this:
+
+    ```
+    python manage.py migrate
+    ```
+    
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/c9ba077b-069b-4937-a423-931e5d68b176)
+  ![image](https://github.com/user-attachments/assets/255f2a39-7e60-47c9-b8af-cb8007f76e7c)
 
 
 </details>
+
+<br>
+
+
+
+# Start the Django Development Server
+
+<details>
+
+  <summary> 
+    
+  ```
+  python manage.py runserver
+  ```
+  </summary>
+
+  
+</details>
+
+<br>
