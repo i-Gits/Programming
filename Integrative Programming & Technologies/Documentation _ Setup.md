@@ -57,7 +57,7 @@
 <br>
 
 
-#2 Python Installation Verification 
+# 2 Python Installation Verification 
 
 <details>
 
