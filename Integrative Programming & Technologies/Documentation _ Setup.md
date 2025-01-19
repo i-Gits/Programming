@@ -1,4 +1,4 @@
-# 1 Setup
+![image](https://github.com/user-attachments/assets/9de1b5af-60f6-4775-b2c1-0be735bd9104)# 1 Setup
 
 <details>
 
@@ -202,6 +202,60 @@ cd connectly_project
   </summary>
 
   
+</details>
+
+<br>
+
+
+# Errors Encountered
+
+<details>
+
+  <summary> 
+  Cannot Access
+  </summary>
+
+![image](https://github.com/user-attachments/assets/052c3507-15c9-4b28-bc15-b590672b9be0)
+
+![image](https://github.com/user-attachments/assets/97bf7e43-45d6-417e-883c-b2667d31864a)
+
+![image](https://github.com/user-attachments/assets/dc46810b-8bba-4bf4-8ff5-fe39868d12dc)
+
+  
+</details>
+
+<br>
+
+
+# Solution
+
+<details>
+
+  <summary> 
+  Forgot to include 【include】
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/aeb2b78b-e034-4926-902e-a088497a5c1d)
+
+  ![image](https://github.com/user-attachments/assets/2c75863d-5c8f-4316-9ef9-bb91669605dc)
+<br>
+<br>
+
+Reactivated Environment 【Open Terminal】>【Access API Folder】>【Activate: env\Scripts\activate.bat
+ 】>【Check if Django is Installed】> <br> <br>
+【pip install django 
+】<br> >【django-admin --version
+】<br> >【Run server again: cd connectly_project
+python manage.py runserver
+】 SUCCESS!
+<br>
+
+  ![image](https://github.com/user-attachments/assets/cc727c48-1310-4109-b4fe-e9a4939bdf6e)
+
+![image](https://github.com/user-attachments/assets/d589d7d9-e205-4c33-863e-3bfb8315373e)
+
+  
+
 </details>
 
 <br>
