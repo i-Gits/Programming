@@ -62,10 +62,35 @@
 <details>
 
   <summary> 
-  CMD python --version
+  Python and pip
   </summary>
 
-  ![image](https://github.com/user-attachments/assets/c3956807-e453-42da-b3e3-de9f805c4e72)
+ 
+<details>
+
+  <summary> 
+  python --version
+  </summary>
+
+   ![image](https://github.com/user-attachments/assets/c3956807-e453-42da-b3e3-de9f805c4e72)
+
+</details>
+
+<br>
+
+
+<details>
+
+  <summary> 
+  pip --version
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/a8c857ac-1e20-421d-8133-72574241f3ab)
+
+</details>
+
+<br>
+
 
 </details>
 
