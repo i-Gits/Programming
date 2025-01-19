@@ -108,6 +108,7 @@
 
 ![image](https://github.com/user-attachments/assets/b1bb08e2-7446-481a-adfd-e8d7dbf8988f)
 
+</details>
 
 <details>
 
@@ -148,12 +149,86 @@
 
 <br>
 
-</details>
 
+
+<details>
 <br>
 
   </summary>
 
+
+  # Activate Environment and Install Django and Django REST Framework
+
+
+
+  <summary>  enter 
+    ```
+    .\env\Scripts\Activate
+    ```
+
+  </summary>
+------------------------------------------------------------------------------
+
+ ![image](https://github.com/user-attachments/assets/cc273c3f-7a18-4b9b-aa3f-b6d3a0a7bfce)
+
+(env) indicates that the virtual environment is active.
+<br>
+
+
+<details>
+
+  <summary> 
+  Install Django -- ```pip install django
+```
+  </summary>
+------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/ffae73ef-ab67-4755-84c7-8e965bc7438f)
+
+![image](https://github.com/user-attachments/assets/f68803a4-0a9f-4396-9634-fc2980e796fd)
+
+![image](https://github.com/user-attachments/assets/1f8e775a-a76e-43d8-8043-7fc3c2862213)
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/ed693898-fe06-4b01-90b8-3b4805e3a60a)
+
+  # 
+
+<details>
+
+  <summary> 
+  Verify Installation ``` pip install djangorestframework```
+  </summary>
+------------------------------------------------------------------------------
+
+![image](https://github.com/user-attachments/assets/1add4981-2bfa-4adb-840e-1bce6d9103d8)
+
+<br>
+
+<br>
+install REST Framework
+
+<br>
+
+<br>
+
+![image](https://github.com/user-attachments/assets/c49e8370-6959-41f0-8c27-f3655f835a21)
+
+</details>
+
+<br>
+  
+</details>
+
+<br>
+
+  
+</details>
+
+<br>
+
   
 </details>
 
@@ -162,3 +237,6 @@
 </details>
 
 <br>
+
+
+
