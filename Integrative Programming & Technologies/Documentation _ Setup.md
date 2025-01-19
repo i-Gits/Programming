@@ -2,241 +2,105 @@
 
 <details>
 
-  <summary> 
-  Python for Windows
-  </summary>
+  <summary>Python for Windows</summary>
 
+  ![image](https://github.com/user-attachments/assets/c25e4f63-1e66-42de-8749-1b800c3d6d3d)
 
-![image](https://github.com/user-attachments/assets/c25e4f63-1e66-42de-8749-1b800c3d6d3d)
-
-![2025-01-20 03_07_43-Python 3 13 1 (64-bit) Setup](https://github.com/user-attachments/assets/604be899-802b-4ac2-83e6-044c0f415c2a)
+  ![2025-01-20 03_07_43-Python 3 13 1 (64-bit) Setup](https://github.com/user-attachments/assets/604be899-802b-4ac2-83e6-044c0f415c2a)
 
   <details>
+    <summary>
+      <!DOCTYPE html>
+      <html>
+      <body>
+        <h1><a href="https://docs.python.org/3.13/tutorial/index.html">Online Tutorial!</a></h1>
+      </body>
+      </html>
+    </summary>
 
-  <summary> 
-  <!DOCTYPE html>
-  <html>
-  <body>
-  
-  <h1><a href="https://docs.python.org/3.13/tutorial/index.html">Online Tutorial!</a></h1>
-  
-  </body>
-  </html>
+    ![image](https://github.com/user-attachments/assets/54f21836-9e8c-44d5-acf0-a4d3d5801bf8)
+  </details>
 
-  </summary>
+  <details>
+    <summary>
+      <!DOCTYPE html>
+      <html>
+      <body>
+        <h1><a href="https://docs.python.org/3.13/index.html">Documentation!</a></h1>
+      </body>
+      </html>
+    </summary>
 
-  ![image](https://github.com/user-attachments/assets/54f21836-9e8c-44d5-acf0-a4d3d5801bf8)
-
-
-  
-</details>
-<details>
-
-  <summary> 
-
-  <!DOCTYPE html>
-  <html>
-  <body>
-  
-  <h1><a href="https://docs.python.org/3.13/index.html"> Documentation!</a></h1>
-  
-  </body>
-  </html>
-
-  
-  </summary>
-
-  ![image](https://github.com/user-attachments/assets/9c91f388-d1fe-4d3d-a520-83a30fbd74d0)
+    ![image](https://github.com/user-attachments/assets/9c91f388-d1fe-4d3d-a520-83a30fbd74d0)
+  </details>
 
 </details>
-
-<br>
-<br>
-</details>
-
-<br>
-
 
 # 2 Python Installation Verification 
 
 <details>
 
-  <summary> 
-  Python and pip
-  </summary>
+  <summary>Python and pip</summary>
 
- 
-<details>
+  <details>
+    <summary>python --version</summary>
+    ![image](https://github.com/user-attachments/assets/c3956807-e453-42da-b3e3-de9f805c4e72)
+  </details>
 
-  <summary> 
-  python --version
-  </summary>
-
-   ![image](https://github.com/user-attachments/assets/c3956807-e453-42da-b3e3-de9f805c4e72)
-
-</details>
-
-<br>
-
-
-<details>
-
-  <summary> 
-  pip --version
-  </summary>
-
-  ![image](https://github.com/user-attachments/assets/a8c857ac-1e20-421d-8133-72574241f3ab)
+  <details>
+    <summary>pip --version</summary>
+    ![image](https://github.com/user-attachments/assets/a8c857ac-1e20-421d-8133-72574241f3ab)
+  </details>
 
 </details>
 
-<br>
-
-
-</details>
-
-<br>
-
-
---
 # VSCODE
 
 <details>
-
-  <summary> 
-  create folder named api
-  </summary>
-
-![image](https://github.com/user-attachments/assets/b1bb08e2-7446-481a-adfd-e8d7dbf8988f)
-
+  <summary>Create folder named api</summary>
+  ![image](https://github.com/user-attachments/assets/b1bb08e2-7446-481a-adfd-e8d7dbf8988f)
 </details>
 
 <details>
-
-  <summary> 
-  open vscode
-  </summary>
-
+  <summary>Open VSCode</summary>
   ![image](https://github.com/user-attachments/assets/48dfef19-7b60-41e1-bddf-1ec333c8e0c7)
-
-  <br>
-
   ![image](https://github.com/user-attachments/assets/eafab471-a2c7-4cdc-9e47-baace1f98adf)
-
-
-# 
-
-<details>
-
-  <summary> 
-   run virtual environment command
-  </summary>
-
-  ![image](https://github.com/user-attachments/assets/ffa7987c-0420-44bc-b8df-7a33dff52fdb)
-
-  <br>
-<br>
-
-![image](https://github.com/user-attachments/assets/0e723214-f767-48e5-833f-922abcafa109)
-
-<br>
-<br>
-
-![image](https://github.com/user-attachments/assets/13f36f9e-3969-4070-9fff-7cea63cee69c)
-
-
-
 </details>
 
-<br>
-
-
+<details>
+  <summary>Run virtual environment command</summary>
+  ![image](https://github.com/user-attachments/assets/ffa7987c-0420-44bc-b8df-7a33dff52fdb)
+  ![image](https://github.com/user-attachments/assets/0e723214-f767-48e5-833f-922abcafa109)
+  ![image](https://github.com/user-attachments/assets/13f36f9e-3969-4070-9fff-7cea63cee69c)
+</details>
 
 <details>
-<br>
+  <summary>Activate Environment and Install Django</summary>
+.\env\Scripts\Activate
 
-  </summary>
-
-
-  # Activate Environment and Install Django and Django REST Framework
-
-
-
-  <summary>  enter 
-    ```
-    .\env\Scripts\Activate
-    ```
-
-  </summary>
-------------------------------------------------------------------------------
-
- ![image](https://github.com/user-attachments/assets/cc273c3f-7a18-4b9b-aa3f-b6d3a0a7bfce)
+![image](https://github.com/user-attachments/assets/cc273c3f-7a18-4b9b-aa3f-b6d3a0a7bfce)
 
 (env) indicates that the virtual environment is active.
-<br>
-
 
 <details>
+  <summary>Install Django</summary>
 
-  <summary> 
-  Install Django -- ```pip install django
-```
-  </summary>
-------------------------------------------------------------------------------
+  ```
+  pip install django
+  ```
 
-![image](https://github.com/user-attachments/assets/ffae73ef-ab67-4755-84c7-8e965bc7438f)
-
-![image](https://github.com/user-attachments/assets/f68803a4-0a9f-4396-9634-fc2980e796fd)
-
-![image](https://github.com/user-attachments/assets/1f8e775a-a76e-43d8-8043-7fc3c2862213)
-
-<br>
-<br>
-
-![image](https://github.com/user-attachments/assets/ed693898-fe06-4b01-90b8-3b4805e3a60a)
-
-  # 
+  ![image](https://github.com/user-attachments/assets/ffae73ef-ab67-4755-84c7-8e965bc7438f)
+  ![image](https://github.com/user-attachments/assets/f68803a4-0a9f-4396-9634-fc2980e796fd)
+</details>
 
 <details>
+  <summary>Verify Installation</summary>
 
-  <summary> 
-  Verify Installation ``` pip install djangorestframework```
-  </summary>
-------------------------------------------------------------------------------
+  ```
+  pip install djangorestframework
+  ```
 
-![image](https://github.com/user-attachments/assets/1add4981-2bfa-4adb-840e-1bce6d9103d8)
-
-<br>
-
-<br>
-install REST Framework
-
-<br>
-
-<br>
-
-![image](https://github.com/user-attachments/assets/c49e8370-6959-41f0-8c27-f3655f835a21)
-
+  ![image](https://github.com/user-attachments/assets/1add4981-2bfa-4adb-840e-1bce6d9103d8)
 </details>
 
-<br>
-  
 </details>
-
-<br>
-
-  
-</details>
-
-<br>
-
-  
-</details>
-
-<br>
-  
-</details>
-
-<br>
-
-
-
