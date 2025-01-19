@@ -1,4 +1,3 @@
-# 1 Setup
 
 <details>
 
@@ -202,6 +201,98 @@ cd connectly_project
   </summary>
 
   
+</details>
+
+<br>
+
+
+# Errors Encountered
+
+<details>
+
+  <summary> 
+  Cannot Access
+  </summary>
+
+![image](https://github.com/user-attachments/assets/052c3507-15c9-4b28-bc15-b590672b9be0)
+
+![image](https://github.com/user-attachments/assets/97bf7e43-45d6-417e-883c-b2667d31864a)
+
+![image](https://github.com/user-attachments/assets/dc46810b-8bba-4bf4-8ff5-fe39868d12dc)
+
+  
+</details>
+
+<br>
+
+
+# Solution
+
+<details>
+
+  <summary> 
+  Forgot to include 【include】
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/aeb2b78b-e034-4926-902e-a088497a5c1d)
+
+  ![image](https://github.com/user-attachments/assets/2c75863d-5c8f-4316-9ef9-bb91669605dc)
+<br>
+<br>
+
+Reactivated Environment 
+
+【Open Terminal】>【Access API Folder】>【Activate: env\Scripts\activate.bat】>【Check if Django is Installed】>
+【pip install django】<br> >【django-admin --version】>【Run server again: cd connectly_project
+python manage.py runserver】 SUCCESS!
+<br>
+
+  ![image](https://github.com/user-attachments/assets/cc727c48-1310-4109-b4fe-e9a4939bdf6e)
+
+![image](https://github.com/user-attachments/assets/d589d7d9-e205-4c33-863e-3bfb8315373e)
+
+  ![image](https://github.com/user-attachments/assets/9de1b5af-60f6-4775-b2c1-0be735bd9104)
+
+
+</details>
+
+<br>
+
+
+# Results
+
+<details>
+
+  <summary> 
+  
+  </summary>
+  
+![image](https://github.com/user-attachments/assets/3c056c03-de5a-498a-afa1-547b9a83e6c2)
+
+  
+</details>
+
+<br>
+
+
+# Superuser
+
+<details>
+
+  <summary> 
+  python manage.py createsuperuser
+
+  </summary>
+  try again
+  
+![image](https://github.com/user-attachments/assets/d55ff690-ef87-4186-a203-9f468712c93b)
+
+  ![image](https://github.com/user-attachments/assets/638a5d4d-7948-4849-939a-b9f4d84b268c)
+
+
+![image](https://github.com/user-attachments/assets/ae896567-f49d-421c-a926-3e5ac4d30af4)
+![image](https://github.com/user-attachments/assets/17d06d1e-8dcb-4361-bc81-73bcc7fb0485)
+
 </details>
 
 <br>
