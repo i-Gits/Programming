@@ -57,4 +57,16 @@
 <br>
 
 
+#2 Python Installation Verification 
 
+<details>
+
+  <summary> 
+  CMD python --version
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/c3956807-e453-42da-b3e3-de9f805c4e72)
+
+</details>
+
+<br>
