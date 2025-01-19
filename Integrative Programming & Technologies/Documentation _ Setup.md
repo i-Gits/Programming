@@ -296,3 +296,29 @@ python manage.py runserver】 SUCCESS!
 </details>
 
 <br>
+
+
+
+
+# "Page not found (404)" error at /accounts/profile/ ➡️ custom login redirect URL in  Django
+
+<details>
+
+  <summary> 
+  
+  </summary>
+appended at the end of settings.py:
+<br>
+
+![image](https://github.com/user-attachments/assets/18a45984-0b10-4913-8300-511291a03144)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/246c42e9-020b-4164-86e7-5b36551a53a4)
+
+ ![image](https://github.com/user-attachments/assets/38aaef10-b533-4e43-a5db-d59832c3068e)
+![image](https://github.com/user-attachments/assets/bca5f65b-5e81-4ced-b027-bdac2c801e10)
+
+</details>
+
+<br>
