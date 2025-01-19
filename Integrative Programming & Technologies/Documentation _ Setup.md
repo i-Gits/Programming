@@ -6,6 +6,9 @@
   Python for Windows
   </summary>
 
+
+![image](https://github.com/user-attachments/assets/c25e4f63-1e66-42de-8749-1b800c3d6d3d)
+
 ![2025-01-20 03_07_43-Python 3 13 1 (64-bit) Setup](https://github.com/user-attachments/assets/604be899-802b-4ac2-83e6-044c0f415c2a)
 
   <details>
