@@ -95,3 +95,70 @@
 </details>
 
 <br>
+
+
+--
+# VSCODE
+
+<details>
+
+  <summary> 
+  create folder named api
+  </summary>
+
+![image](https://github.com/user-attachments/assets/b1bb08e2-7446-481a-adfd-e8d7dbf8988f)
+
+
+<details>
+
+  <summary> 
+  open vscode
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/48dfef19-7b60-41e1-bddf-1ec333c8e0c7)
+
+  <br>
+
+  ![image](https://github.com/user-attachments/assets/eafab471-a2c7-4cdc-9e47-baace1f98adf)
+
+
+# 
+
+<details>
+
+  <summary> 
+   run virtual environment command
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/ffa7987c-0420-44bc-b8df-7a33dff52fdb)
+
+  <br>
+<br>
+
+![image](https://github.com/user-attachments/assets/0e723214-f767-48e5-833f-922abcafa109)
+
+<br>
+<br>
+
+![image](https://github.com/user-attachments/assets/13f36f9e-3969-4070-9fff-7cea63cee69c)
+
+
+
+</details>
+
+<br>
+
+</details>
+
+<br>
+
+  </summary>
+
+  
+</details>
+
+<br>
+  
+</details>
+
+<br>
