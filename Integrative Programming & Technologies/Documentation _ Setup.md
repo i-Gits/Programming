@@ -322,3 +322,165 @@ appended at the end of settings.py:
 </details>
 
 <br>
+
+# Create the posts app
+
+<details>
+
+  <summary> 
+  
+  </summary>
+  
+python manage.py startapp posts
+
+  ![image](https://github.com/user-attachments/assets/85142675-2e8a-4900-8569-2264bbc059f8)
+
+</details>
+
+<br>
+
+
+# Define Models
+
+<details>
+
+  <summary> 
+    
+  ![image](https://github.com/user-attachments/assets/f157603b-8f13-4902-9b02-a0808e4fc976)
+
+  </summary>
+
+  
+</details>
+
+<br>
+ 
+
+# Apply Migrations
+
+<details>
+
+  <summary> 
+    <br>
+  python manage.py makemigrations
+<br>
+    python manage.py migrate
+
+<br>
+  </summary>
+
+  ![image](https://github.com/user-attachments/assets/9d9cd733-b7d8-415f-aa36-9f949f96dc59)
+
+  ![image](https://github.com/user-attachments/assets/a4181a54-57d3-4bce-8e7d-2df97a37cddc)
+
+  <br>
+<br> forgot to activate env .\env\Scripts\Activate
+ 
+<br>
+
+ ![image](https://github.com/user-attachments/assets/63f1936c-870e-43ee-acc0-521176db3129)
+
+Migrations were successfully created and applied. The User model is now set up in my database.
+</details>
+
+<br>
+
+#  Implement CRUD Operations in Views
+
+<details>
+
+  <summary> 
+  posts/views.py
+  </summary>
+
+  
+</details>
+
+<br>
+
+
+
+
+# Create URL patterns for the posts app // endpoint
+
+<details>
+
+  <summary> Add the following content to posts/urls.py:
+  
+  </summary>
+
+
+![image](https://github.com/user-attachments/assets/41f7bcb3-4927-483e-8992-31ca9e91ff48)
+
+  
+  ![image](https://github.com/user-attachments/assets/89428f6a-ca44-48de-aa9e-49d95eeee44a)
+
+</details>
+
+<br>
+
+
+
+
+# postman
+
+<details>
+
+  <summary> 
+  
+  </summary>
+
+  
+</details>
+
+<br>
+
+
+
+
+
+# 
+
+<details>
+
+  <summary> 
+  
+  </summary>
+
+  
+</details>
+
+<br>
+
+
+
+
+
+# 
+
+<details>
+
+  <summary> 
+  
+  </summary>
+
+  
+</details>
+
+<br>
+
+
+
+
+# 
+
+<details>
+
+  <summary> 
+  
+  </summary>
+
+  
+</details>
+
+<br>
