@@ -268,6 +268,14 @@ python manage.py runserver】 SUCCESS!
   </summary>
   
 ![image](https://github.com/user-attachments/assets/3c056c03-de5a-498a-afa1-547b9a83e6c2)
+<br>
+![image](https://github.com/user-attachments/assets/03e7d96b-95df-411f-af90-d6466199d503)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/f6403771-0ded-4cde-b414-bc6b6b9c36ca)
+
+<br>
 
   
 </details>
