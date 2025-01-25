@@ -82,3 +82,18 @@ Just added a slash!
 
 </details>
 </details>
+
+
+<details><summary> Export </summary>
+
+  ![image](https://github.com/user-attachments/assets/1acf5399-ace7-4e03-b56c-ac51a84df261)
+
+![image](https://github.com/user-attachments/assets/10112b4c-1846-4a0b-a752-559fa2298d03)
+
+![image](https://github.com/user-attachments/assets/f709719e-8bee-450f-ae9e-8098848b781c)
+
+<br>
+
+![image](https://github.com/user-attachments/assets/fdc7b0f3-454c-430f-bb2c-841c3223e59e)
+
+</details>
