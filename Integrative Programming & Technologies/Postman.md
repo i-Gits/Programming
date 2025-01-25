@@ -1,13 +1,19 @@
-![image](https://github.com/user-attachments/assets/9717abe2-a466-4d5a-8399-248d578ad814)# Postman Results
+
+# Postman Results
 <details><summary> Screenshots </summary>
 <br>
   Users
+  
 ![image](https://github.com/user-attachments/assets/5845228e-b8d8-4185-bb66-5d716d596cc8)
+
 <br>
 When trying no username and email fields.
+  
 ![image](https://github.com/user-attachments/assets/cfd878a5-6278-45c1-8bf3-a34e87a26388)
 
 ![image](https://github.com/user-attachments/assets/ca1ad09b-4062-438b-83f9-70ef0eba54da)
+
+![image](https://github.com/user-attachments/assets/9717abe2-a466-4d5a-8399-248d578ad814)
 
 <br>
 When username and email fields are present.
@@ -61,9 +67,17 @@ Response when the server is not run.
 
 ![image](https://github.com/user-attachments/assets/c8d917c6-e509-40cb-884a-92216cb5c574)
 
+
+
+
+
+
+
 <details><summary> Solution </summary>
 Just added a slash!
+  
   ![image](https://github.com/user-attachments/assets/8609ba40-fa88-4c3e-9433-737cda6a7057)
+  
 ![image](https://github.com/user-attachments/assets/4fc39ad8-fb24-4727-ad77-db6a37d60d14)
 
 </details>
